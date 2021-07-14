@@ -1,6 +1,3 @@
-spring:
-  config:
-    import: configserver
 eureka:
   client:
     register-with-eureka: true
